@@ -6,5 +6,6 @@ client/.minecraft/logs
 client/.minecraft/NVIDIA
 client/.minecraft/launcher_profiles.json
 client/.minecraft/usercache.json
+client/.minecraft/usernamecache.json
 
 # server
