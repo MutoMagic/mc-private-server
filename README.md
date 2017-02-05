@@ -9,7 +9,3 @@ Name          | Version
 mc            | 1.8.9
 forge         | 1.8.9-11.15.1.1722
 sponge        | 1.8.9-4.2.0-BETA-352
-
-## client
-
-## server
