@@ -1,9 +1,7 @@
-.log
+*.log
 
 # client
 client/hmcl.json
-client/hmcl.log
-
 client/.minecraft/logs
 client/.minecraft/NVIDIA
 client/.minecraft/launcher_profiles.json
