@@ -18,4 +18,5 @@ server/banned-ips.json
 server/banned-players.json
 server/ops.json
 server/usercache.json
+server/usernamecache.json
 server/whitelist.json
