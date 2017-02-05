@@ -4,8 +4,12 @@
 
 项目主体分为 client 和 server 两个部分，均支持 [FORGE](http://files.minecraftforge.net/) Mod，服务端使用 [SPONGE](https://www.spongepowered.org/) 作为插件平台。由于服务端支持了 forge，因此其功能上与 Cauldron（MCPC+） 类似。
 
-Name          | Version
-------------- | -------------
-mc            | 1.8.9
-forge         | 1.8.9-11.15.1.1722
-sponge        | 1.8.9-4.2.0-BETA-352
+## version
+
+整合包当前版本为 v0.1
+
+Name            | Version
+--------------- | ---------------
+mc              | 1.8.9
+forge           | 1.8.9-11.15.1.1722
+sponge          | 1.8.9-4.2.0-BETA-352
