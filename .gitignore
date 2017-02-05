@@ -2,10 +2,20 @@
 
 # client
 client/hmcl.json
+
 client/.minecraft/logs
 client/.minecraft/NVIDIA
+
 client/.minecraft/launcher_profiles.json
 client/.minecraft/usercache.json
 client/.minecraft/usernamecache.json
 
 # server
+server/logs
+server/world
+
+server/banned-ips.json
+server/banned-players.json
+server/ops.json
+server/usercache.json
+server/whitelist.json
