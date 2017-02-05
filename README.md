@@ -9,6 +9,6 @@
 Name            | Version
 --------------- | ---------------
 mc              | 1.8.9
-sponge          | 1.10.2 - 5.1.0-BETA-2113
+sponge          | 1.8.9 - 4.2.0-BETA-1762
 forge client    | 1.8.9 - 11.15.1.1722
 forge server    | 1.8.9 - 11.15.1.1902
