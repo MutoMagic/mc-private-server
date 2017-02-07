@@ -6,7 +6,7 @@ ofOcclusionFancy:false
 ofSmoothFps:false
 ofSmoothWorld:true
 ofAoLevel:1.0
-ofClouds:0
+ofClouds:3
 ofCloudsHeight:0.0
 ofTrees:0
 ofDroppedItems:0
@@ -36,12 +36,12 @@ ofConnectedTextures:2
 ofWeather:true
 ofSky:true
 ofStars:true
-ofSunMoon:true
+ofSunMoon:false
 ofVignette:0
 ofChunkUpdates:1
 ofChunkUpdatesDynamic:false
 ofTime:0
-ofClearWater:false
+ofClearWater:true
 ofAaLevel:0
 ofAfLevel:1
 ofProfiler:false
@@ -60,6 +60,6 @@ ofDynamicFov:true
 ofDynamicLights:3
 ofFullscreenMode:Default
 ofFastMath:false
-ofFastRender:true
+ofFastRender:false
 ofTranslucentBlocks:0
 key_of.key.zoom:46

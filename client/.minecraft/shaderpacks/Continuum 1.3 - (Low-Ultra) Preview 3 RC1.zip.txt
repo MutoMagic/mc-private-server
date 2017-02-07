@@ -1,0 +1,18 @@
+#Tue Feb 07 18:06:44 CST 2017
+LQ_POM=true
+Global_Illumination=false
+Water_Refraction=false
+VOLUMETRIC_CLOUDS_NEW=false
+PARALLAX_SHADOW=false
+FORCE_SPECULARITY=false
+GI_RADIUS=1.0
+Water_Caustics=false
+PARALLAX=false
+Dynamic_Weather=true
+PARALLAX_WATER=false
+GI_FILTER_QUALITY=3.5
+WAVING_WATER=false
+shadowMapResolution=1024
+VARIABLE_PENUMBRA_SHADOWS=false
+BLOOM_EFFECTS=false
+VOLUMETRIC_LIGHT=false
