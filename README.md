@@ -17,7 +17,7 @@ forge server    | 1.8.9 - 11.15.1.1902
 
 ## mods
 
-Platform 表示需要哪些平台支持，其中 `1.client 2.server x.all`。
+Platform 表示需要支持的平台，其中 `1.client 2.server x.all`。
 
 Name | Platform | File | Description
 ---- | -------- | ---- | -----------
