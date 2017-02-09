@@ -17,10 +17,12 @@ forge server    | 1.8.9 - 11.15.1.1902
 
 ## mods
 
-Platform 表示需要支持的平台，其中 `1.client 2.server x.all`。
+这里用于记录已安装的模组。通常只需要本地客户端支持即可，部分需要在服务端添加。
+Platform 表示需要支持的平台。其中 `c/o` 为 client only；`s/o` 为 server only；`c/s` 表示两端都需要支持。
+对于 c/s 结构来说，`+1` 表示仅支持其中一个平台，具体支持哪个平台由后面的字母决定。
 
 Name | Platform | File | Description
 ---- | -------- | ---- | -----------
-中文输入 | 1 | InputFix-1.8.x-v2.jar | 自 1.9 开始不再需要，官方已做支持
-高清修复 | 1 | OptiFine_1.8.9_HD_U_H6.jar | 已吞并光影，自带动态光源
-怪物娘化 | 1 | YarrCuteMobModelsRemake-1.0.11-1.8.9.jar | 如果服务端需要 恶魂妹妹，请自行加入
+中文输入 | c/o | InputFix-1.8.x-v2.jar | 自 1.9 开始不再需要，官方已做支持
+高清修复 | c/o | OptiFine_1.8.9_HD_U_H6.jar | 已吞并光影，自带动态光源
+怪物娘化 | c/s +1c | YarrCuteMobModelsRemake-1.0.11-1.8.9.jar | ~~恶魂妹妹，我。。。~~ (~ε(#~)☆
