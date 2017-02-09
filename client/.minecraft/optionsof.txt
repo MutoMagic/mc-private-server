@@ -57,7 +57,7 @@ ofShowCapes:true
 ofNaturalTextures:false
 ofLazyChunkLoading:true
 ofDynamicFov:true
-ofDynamicLights:3
+ofDynamicLights:2
 ofFullscreenMode:Default
 ofFastMath:false
 ofFastRender:false

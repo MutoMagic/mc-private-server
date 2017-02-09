@@ -10,6 +10,8 @@ client/.minecraft/launcher_profiles.json
 client/.minecraft/usercache.json
 client/.minecraft/usernamecache.json
 
+client/.minecraft/shaderpacks/Continuum 1.3 - (Low-Ultra) Preview 3 RC1.zip.txt
+
 # server
 server/logs
 server/world
